@@ -40,4 +40,4 @@ main section .login {
 ```
 
 ### 결과 창
-<img src= "../img/blog/login_html.png" />
+<img src= "https://github.com/DKULena/blog/blob/main/img/login/log-in%20html.png" />
