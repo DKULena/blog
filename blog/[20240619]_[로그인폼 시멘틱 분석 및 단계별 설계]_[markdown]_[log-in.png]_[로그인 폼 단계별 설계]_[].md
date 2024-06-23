@@ -38,4 +38,6 @@ main section .login {
   </body>
 </html>
 ```
-> 기본 html 구조에서 
+
+### 결과 창
+![login_html](../img/blog/login_html.png)
