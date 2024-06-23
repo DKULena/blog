@@ -40,4 +40,4 @@ main section .login {
 ```
 
 ### 결과 창
-![login_html](../img./blog/login_html.png)
+![login_html](login_html.png)
