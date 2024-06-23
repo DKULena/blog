@@ -40,4 +40,4 @@ main section .login {
 ```
 
 ### 결과 창
-![login_html](login_html.png)
+<img src= "../img/blog/login_html.png" />
