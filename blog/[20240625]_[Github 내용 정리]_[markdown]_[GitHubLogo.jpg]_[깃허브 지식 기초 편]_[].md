@@ -29,15 +29,18 @@
 많고 많은 다양한 회사들 중에 GitHub을 알아보는 이유는...
 
 간단하게 가장 많은 사람들이 GitHub를 통해 프로젝트를 진행중이기 때문이다!
+(해당 포스팅 또한 GitHub에서 버전을 관리해가며 글을 작성중이다.)
 
 |:랭킹:|:회사:|
-|1|GitHub|
-|2|GitLab|
-|3|Snowtrack|
-|4|Simul|
-|5|Mercurial|
-|6|Kactus|
-|7|Bitbucket|
-|8|CVS|
-|9|Unity Version Control|
+|--|----------|
+| 1 | GitHub |
+| 2 | GitLab |
+| 3 | Snowtrack |
+| 4 | Simul |
+| 5 | Mercurial |
+| 6 | Kactus |
+| 7 | Bitbucket |
+| 8 | CVS |
+| 9 | Unity Version Control |
 [출처:logit.io](https://logit.io/blog/post/version-control-tools/)
+
