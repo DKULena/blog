@@ -16,6 +16,7 @@
 
 ### 아니 그냥 로컬 파일에 일일이 다 기록해 놓으면 되는거 아니야?
 개발 업무는 혼자서 진행하는 것이 아니다. 한 프로젝트를 진행할 때 여러명의 서로 다른 분야의 개발자들이 서로 다른 업무를 맡에 진행을 하게 된다. 또한 개발자들끼리만 협업하는 것이 아니라 이외의 관련 분야에 종사하시는 팀원들 또한 개발 프로젝트에 투입이 된다.
+
 이렇듯 다양한 사람들이 함께 작업을 진행하게 되는데 업데이트를 일일이 개인 로컬 파일, 혹은 회사 내 공유 폴더에서 프로젝트를 진행하게 된다면 코드 충돌(code conflict)문제는 불 보듯이 뻔할 것이다. 이외에도 정말 다양한 이유가 있지만 잘 생각해보면 대다수의 개발자들이 분산버전관리 시스템을 통해서 프로젝트를 진행하는데는 그만한 이유가 있지 않을까?
 ```
 요약
@@ -31,16 +32,17 @@
 간단하게 가장 많은 사람들이 GitHub를 통해 프로젝트를 진행중이기 때문이다!
 (해당 포스팅 또한 GitHub에서 버전을 관리해가며 글을 작성중이다.)
 
-|:랭킹:|:회사:|
-|--|----------|
-| 1 | GitHub |
-| 2 | GitLab |
-| 3 | Snowtrack |
-| 4 | Simul |
-| 5 | Mercurial |
-| 6 | Kactus |
-| 7 | Bitbucket |
-| 8 | CVS |
-| 9 | Unity Version Control |
-[출처:logit.io](https://logit.io/blog/post/version-control-tools/)
+                        |:랭킹:|:회사:|
+                        |--|----------|
+                        | 1 | GitHub |
+                        | 2 | GitLab |
+                        | 3 | Snowtrack |
+                        | 4 | Simul |
+                        | 5 | Mercurial |
+                        | 6 | Kactus |
+                        | 7 | Bitbucket |
+                        | 8 | CVS |
+                        | 9 | Unity Version Control |
+
+                                                    [출처:logit.io](https://logit.io/blog/post/version-control-tools/)
 
